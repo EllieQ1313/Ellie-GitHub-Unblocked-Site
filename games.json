@@ -1,1 +1,26 @@
-[\n  {\n    "name": "Game One",\n    "url": "https://example.com/gameone"\n  },\n  {\n    "name": "Game Two",\n    "url": "https://example.com/gametwo"\n  },\n  {\n    "name": "Game Three",\n    "url": "https://example.com/gamethree"\n  }\n]
+[
+  {
+    "name": "2048",
+    "url": "https://play2048.co/"
+  },
+  {
+    "name": "Pac-Man",
+    "url": "https://pacman.rawegg.com/"
+  },
+  {
+    "name": "Snake Game",
+    "url": "https://snake.rawegg.com/"
+  },
+  {
+    "name": "Flappy Bird",
+    "url": "https://flappybird.io/"
+  },
+  {
+    "name": "Agar.io",
+    "url": "https://agar.io/"
+  },
+  {
+    "name": "Wordle",
+    "url": "https://www.nytimes.com/games/wordle/"
+  }
+]
